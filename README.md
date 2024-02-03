@@ -1,3 +1,4 @@
+
 ##This is a repository that we can use to investigate technical challenges before building the actual application.
 
 ###Anticipated Technical Challenges (so-far):
@@ -23,3 +24,4 @@
 19. Is piexifjs a library that can be relied upon to read and write EXIF metadata.
 20. React Native input differences (does a React Native input behave differently than an html input)
 21. Can Flutter be a better development environment(can we build either iOs, Android, Window, MacOs apps from any type of platform(Windows/Mac/Linux)
+
