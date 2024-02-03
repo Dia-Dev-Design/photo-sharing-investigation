@@ -1,7 +1,7 @@
 
-##This is a repository that we can use to investigate technical challenges before building the actual application.
+## This is a repository that we can use to investigate technical challenges before building the actual application.
 
-###Anticipated Technical Challenges (so-far):
+### Anticipated Technical Challenges (so-far):
 
 1. Access the EXIF metadata in the file buffer of a photo, particular for GPS coordinates and when photo was taken.
 2. Altering metadata after upload.
